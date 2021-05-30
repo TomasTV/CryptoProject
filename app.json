@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Crypto",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
+
